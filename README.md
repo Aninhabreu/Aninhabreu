@@ -3,7 +3,11 @@
 Estudante de Ui/Ux Design e Web! 🔥 <br>
 Sagitariana, otaku e doidinha. 🥰 <br>
 
-
+<div>
+ <a href="https://www.behance.net/anapaulaabreu" target="_blank"><img src="https://img.shields.io/badge/-Behance-red" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/aninhabreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue" target="_blank"></a>
+  </div>
+  
    ##
 
 <div align="left">
@@ -12,11 +16,6 @@ Sagitariana, otaku e doidinha. 🥰 <br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhabreu&layout=compact&langs_count=7&theme=onedark"/>
 </div><br>
 
-  
-<div>
- <a href="https://www.behance.net/anapaulaabreu" target="_blank"><img src="https://img.shields.io/badge/-Behance-lightgrey" target="_blank"></a>
- <a href="https://www.linkedin.com/in/aninhabreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue" target="_blank"></a>
-  </div>
   
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6479/9747b7158d4a21faaaebabc9e3a88880bb1f45a7_hq.gif">
   
