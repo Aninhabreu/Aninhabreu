@@ -1,6 +1,6 @@
 ### Olá, me chamo Ana Paula! ☺️
 
-Estudante de Ui/Ux Design e Web! 🔥 <br>
+Estudante de UI UX e Web! 🔥 <br>
 Sagitariana, otaku e doidinha. 🥰 <br>
 
 <div>
